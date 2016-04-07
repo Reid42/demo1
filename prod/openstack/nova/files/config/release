@@ -1,0 +1,4 @@
+[Nova]
+vendor = Fedora Project
+product = OpenStack Nova
+package = 3.94d6b69git.el7

@@ -1,0 +1,2 @@
+dashboard:
+  DASHBOARD_HOST: 192.168.56.11
